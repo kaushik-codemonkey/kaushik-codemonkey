@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a Home Inventory App**
 
-- 🌱 I’m currently learning **Sails.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **react js, Express.js, node js, JavaScript**
 
