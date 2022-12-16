@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kaushik</h1>
-<h3 align="center">An Enthusiastic techie who currently identifies himself as a Computer Programmer. Having hands on experience in web technologies like React js, Express and mongodb.
+<h3 align="center">An Enthusiastic techie who currently identifies himself as a Computer Programmer. Having hands on experience in web technologies like React js, Node, sql & nosql (mongodb) databases, GraphQL etc.
 </h3>
 
 - 🔭 I’m currently working on **a Home Inventory App**
