@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **a Home Inventory App**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **react js, Express.js, node js, JavaScript**
+- 💬 Ask me about **react js, Express.js, node js, JavaScript, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
